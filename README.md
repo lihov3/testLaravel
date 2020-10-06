@@ -1,6 +1,6 @@
 Clone the repository
 
-git clone git@github.com:
+git clone https://github.com/lihov3/testLaravel.git
 Switch to the repo folder
 
 cd laravel-realworld-example-app
