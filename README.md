@@ -1,5 +1,5 @@
 Clone the repository
-
+---
 git clone git@github.com:
 Switch to the repo folder
 
